@@ -1,1 +1,35 @@
-:-moz-only-whitespace
+1.	Git --version (to check latest version)
+2. ls            ( list file,show the in your working directory)
+3. clear         (clear all
+4. pwd           (check the current working directory)
+5. git config --global user.name "Sachin1032786" (use GitHub username )
+6. git config --global user.email "sachinpatel1032786@gmail.com" (use GitHub email )
+7. git config --list (to check what we done before )
+8. git clone https://github.com/Sachinpatel1032786/Sachinpatel-html.git (retrieve an entire repository from a hosted location via URL )
+9. cd (change directory)
+10. get-ChildItem (lists files and folders)
+11. Get-ChildItem -force (lists all files,including hidden ones like .git)
+12. git status (show modified files in working directory, staged for your next commit )
+13.  git add [file] ( add a file as it looks now to your next commit (stage) )
+14.  git commit -m "descriptive message" (commit your staged content as a new commit snapshot)
+15. git config --global color.ui auto (set automatic command line coloring for Git for easy reviewing)
+16. git init (initialize an existing directory as a Git repository)
+17. git push origin main (push-upload local repo content to remote repo)
+# cd .. ("Change directory to the parent directory" of your current working directory)
+# cd -(takes you to the previous structure)
+# cd ../.. (moves up two levels in the directory structure
+# untracked(new files that git doesn't yet track),modified (changed), staged(file is ready to be committed), unmodified (unchanged)
+# git init (use to create a new git repo)
+# mkdir [name of new directory] (make new directory)
+# git remote add origin <link>(to add in a repo)
+# git remote -v ( to verify remote)
+# git branch (to check branch)
+# git branch -M "main" (to remane branch)
+# git push -u origin name (this is used when further use for same repo)
+# 
+
+
+
+
+
+
